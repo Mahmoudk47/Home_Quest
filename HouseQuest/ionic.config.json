@@ -1,0 +1,7 @@
+{
+  "name": "HouseQuest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
